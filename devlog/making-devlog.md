@@ -10,8 +10,25 @@ Ten entries. These entries are your own personal notes on what you're doing, wha
 
 Here's how to make one in github. I've chosen to set it up as a `subdirectory` of the main `notebook` repository. You could just make it a separate repository if you wished (to do that, click on the `+` button on the top right of the screen and follow instructions. Make sure to select `initialize with a readme file` when it asks you.)
 
+## Make a new folder and the first devlog file
 ![](1.png)
+
+## Github is smart enough to recognize that you want a new folder
 ![](2.png)
+
+
 ![](3.png)
+
+## Start writing your first entry
 ![](4.png)
+
+## Commit - save - your changes
 ![](5.png)
+
+## Review
+![](6.png)
+
+## Moving forward
+
+Now, when you want to make your next devlog entry, just go to this repository and subfolder, hit the 'create new file' button, name the new file appropriately, and begin to write.
+
